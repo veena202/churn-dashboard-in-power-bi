@@ -41,5 +41,5 @@ Refresh the data to update the visuals.
 Explore the different pages of the dashboard to gain insights into customer churn.
 
 Contact
-For questions or suggestions, please open an issue or contact yourname.
+For questions or suggestions, please open an issue or contact my mail.
 
